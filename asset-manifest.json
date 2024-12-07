@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/storefront/static/js/main.3c5c8550.js",
-    "index.html": "/storefront/index.html",
-    "main.3c5c8550.js.map": "/storefront/static/js/main.3c5c8550.js.map"
+    "main.js": "/template-architect/storefront/static/js/main.3c5c8550.js",
+    "index.html": "/template-architect/storefront/index.html",
+    "main.3c5c8550.js.map": "/template-architect/storefront/static/js/main.3c5c8550.js.map"
   },
   "entrypoints": [
     "static/js/main.3c5c8550.js"
